@@ -13,9 +13,9 @@ Prodi  : Teknik Informatika - TI08
 ```
 
 ## Screenshots
-![picture](assets/ss1.png)
+![picture](assets/img/ss1.png)
 
-![picture](assets/ss2.png)
+![picture](assets/img/ss2.png)
 
 
 
