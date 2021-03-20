@@ -2,7 +2,7 @@
 include_once 'atas.php';
 include_once 'libfungsi.php';
 
-$proses = $_POST['proses'];
+// $proses = $_POST['proses'];
 $nama_siswa = $_POST['nama'];
 $matkul = $_POST['matkul'];
 $nilai_uts = $_POST['uts'];
